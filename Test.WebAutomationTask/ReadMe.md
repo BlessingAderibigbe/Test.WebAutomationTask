@@ -1,4 +1,4 @@
-﻿Project Name: ShoppingCart
+﻿Project Name: Test.WebAutomationTask
 
 Pre-Requisites for Project Execution
 	Visual Studio 2019
